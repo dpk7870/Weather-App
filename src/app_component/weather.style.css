@@ -4,11 +4,14 @@
 
 .container input,
 .container ::-webkit-input-placeholder {
-  color: white !important;
+  color: rgb(253, 253, 253) !important;
 }
 .container input:focus {
   background-color: transparent;
   box-shadow: none !important;
   border: none;
-  border-bottom: 2px solid tomato;
+  border-bottom: 2px solid rgb(110, 195, 235);
+}
+.button{
+  color: rgb(7, 7, 49);
 }

@@ -5,8 +5,11 @@ form {
 form input[name="city"],
 form input[name="country"] {
   background-color: transparent;
-  color: white;
+  color: rgb(250, 19, 19);
   border: none;
   border-bottom: 2px solid whitesmoke;
   border-radius: 0;
+}
+.btn btn-warning{
+  color: blue;
 }
